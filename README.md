@@ -118,7 +118,7 @@ NODE_ENV=development
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/naumangoraya/ECommerceStore.git
    ```
 
 2. **Install backend dependencies**
